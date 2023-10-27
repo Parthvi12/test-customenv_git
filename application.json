@@ -7,6 +7,10 @@
     {
       "id": "Public.users",
       "isDefault": false
+    },
+    {
+      "id": "Project Plan",
+      "isDefault": false
     }
   ],
   "viewMode": false,
